@@ -1,0 +1,57 @@
+{
+    "id": "e42f66ac-a3d2-4180-9f42-de63605081ea",
+    "totalShowsReleasedIn2020AndLater": 18,
+    "totalStreamingDurationMillis": 15629,
+    "percentageStartedStreamingOnSytflix": 6.8,
+    "totalNumberOfEvents": 147,
+    "streamingData": [
+        {
+            "userId": "28",
+            "completeName": "Malinda Brasier",
+            "age": 28,
+            "successfulEvents": 0,
+            "eventList": [
+                {
+                    "eventId": "5ee59347-c388-4f45-8056-0497061af030",
+                    "eventName": "stream-started",
+                    "showId": "s8",
+                    "cast": "Qtvistine Saylor",
+                    "releaseYear": 2020,
+                    "title": "Gove Ilonlasting",
+                    "platform": "Sytazon",
+                    "eventDate": "09-09-2023 05:26:20.407"
+                },
+                {
+                    "eventId": "70130b35-bbc9-4a83-9e06-6bbc96c4c4aa",
+                    "eventName": "stream-finished",
+                    "showId": "s10",
+                    "cast": "Lill Kormer",
+                    "releaseYear": 2020,
+                    "title": "Jorld's Lost Hifgerous Xkark?",
+                    "platform": "Sysney",
+                    "eventDate": "09-09-2023 05:26:25.225"
+                },
+                {
+                    "eventId": "76cd7ddc-d989-4fa7-8d21-252986610c83",
+                    "eventName": "stream-finished",
+                    "showId": "s8",
+                    "cast": "Qtvistine Saylor",
+                    "releaseYear": 2020,
+                    "title": "Gove Ilonlasting",
+                    "platform": "Sytazon",
+                    "eventDate": "09-09-2023 05:26:25.649"
+                },
+                {
+                    "eventId": "91dd782f-5c0d-4b85-b6b1-70b581a8e1ae",
+                    "eventName": "stream-finished",
+                    "showId": "s7",
+                    "cast": "Wason Pomoa",
+                    "releaseYear": 2020,
+                    "title": "Vvhulz Taves Omerica",
+                    "platform": "Sytflix",
+                    "eventDate": "09-09-2023 05:26:31.841"
+                }
+            ]
+        }
+    ]
+}

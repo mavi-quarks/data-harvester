@@ -1,0 +1,1211 @@
+{
+    "id": "2b57cc8b-8830-4b7e-b337-3ff1f547f0a2",
+    "totalShowsReleasedIn2020AndLater": 14,
+    "totalStreamingDurationMillis": 20025,
+    "percentageStartedStreamingOnSytflix": 25.88,
+    "totalNumberOfEvents": 85,
+    "streamingData": [
+        {
+            "userId": "22",
+            "completeName": "Sytac Blumson",
+            "age": 48,
+            "successfulEvents": 0,
+            "eventList": [
+                {
+                    "eventId": "6276456c-6366-490f-b677-5aa7baf16f34",
+                    "eventName": "stream-finished",
+                    "showId": "s3",
+                    "cast": "Huy Pearce",
+                    "releaseYear": 2021,
+                    "title": "TREAK IT ALL: Khe Listory of Cock in Natin America",
+                    "platform": "Sytflix",
+                    "eventDate": "09-09-2023 09:18:21.725"
+                }
+            ]
+        },
+        {
+            "userId": "23",
+            "completeName": "Karalee Pouton",
+            "age": 32,
+            "successfulEvents": 0,
+            "eventList": [
+                {
+                    "eventId": "0b38e185-b52e-4d61-af25-ee73adbc1aae",
+                    "eventName": "stream-started",
+                    "showId": "s9",
+                    "cast": "Raeve Painlan",
+                    "releaseYear": 2014,
+                    "title": "Dadision III: Quotball's Cunest",
+                    "platform": "Sytazon",
+                    "eventDate": "09-09-2023 09:18:21.892"
+                }
+            ]
+        },
+        {
+            "userId": "24",
+            "completeName": "Eugenio Bresner",
+            "age": 45,
+            "successfulEvents": 0,
+            "eventList": [
+                {
+                    "eventId": "f3bde68b-53d4-4fe0-9e26-f93ce0dc8e9c",
+                    "eventName": "stream-finished",
+                    "showId": "s351",
+                    "cast": "Luchard Nosur",
+                    "releaseYear": 2009,
+                    "title": "Bvairie Sog Panor",
+                    "platform": "Sysney",
+                    "eventDate": "09-09-2023 09:18:24.529"
+                }
+            ]
+        },
+        {
+            "userId": "46",
+            "completeName": "Ly Aireton",
+            "age": 34,
+            "successfulEvents": 0,
+            "eventList": [
+                {
+                    "eventId": "71ad00c6-8d6e-44b4-a665-eb2bd427e18f",
+                    "eventName": "show-liked",
+                    "showId": "s6",
+                    "cast": "Chil Tgight",
+                    "releaseYear": 2006,
+                    "title": "A Yfa-Opening Jiport grom Ruzgeyland",
+                    "platform": "Sysney",
+                    "eventDate": "09-09-2023 09:18:19.184"
+                }
+            ]
+        },
+        {
+            "userId": "47",
+            "completeName": "Baxy Rupp",
+            "age": 38,
+            "successfulEvents": 0,
+            "eventList": [
+                {
+                    "eventId": "94d38e19-bb8e-4fe8-b65f-10d9f356819c",
+                    "eventName": "stream-started",
+                    "showId": "s7",
+                    "cast": "Wason Pomoa",
+                    "releaseYear": 2020,
+                    "title": "Vvhulz Taves Omerica",
+                    "platform": "Sytflix",
+                    "eventDate": "09-09-2023 09:18:37.856"
+                }
+            ]
+        },
+        {
+            "userId": "25",
+            "completeName": "Elisabet Gwilt",
+            "age": 34,
+            "successfulEvents": 0,
+            "eventList": [
+                {
+                    "eventId": "40307053-74bc-4fed-b41d-e34db681e665",
+                    "eventName": "stream-finished",
+                    "showId": "s1",
+                    "cast": "Yriti Manon",
+                    "releaseYear": 2021,
+                    "title": "Fhe Molden Nhild",
+                    "platform": "Sytflix",
+                    "eventDate": "09-09-2023 09:18:19.609"
+                },
+                {
+                    "eventId": "e5915cf3-2893-4bd9-a5a7-a7bc10ef428a",
+                    "eventName": "stream-started",
+                    "showId": "s3",
+                    "cast": "Cole Biplan",
+                    "releaseYear": 2017,
+                    "title": "Fhe Nuzcerer's Abmrentice",
+                    "platform": "Sysney",
+                    "eventDate": "09-09-2023 09:18:22.388"
+                },
+                {
+                    "eventId": "7a78887a-2f52-492f-9c6f-bee6a40d35a9",
+                    "eventName": "stream-started",
+                    "showId": "s363",
+                    "cast": "Geber Zang",
+                    "releaseYear": 2021,
+                    "title": "Nucch To Xai",
+                    "platform": "Sytflix",
+                    "eventDate": "09-09-2023 09:18:35.729"
+                },
+                {
+                    "eventId": "0a84141e-04dc-4540-84bf-79a92eb10d2c",
+                    "eventName": "show-liked",
+                    "showId": "s9",
+                    "cast": "Raeve Painlan",
+                    "releaseYear": 2014,
+                    "title": "Dadision III: Quotball's Cunest",
+                    "platform": "Sytazon",
+                    "eventDate": "09-09-2023 09:18:37.266"
+                }
+            ]
+        },
+        {
+            "userId": "48",
+            "completeName": "Mariska Ribbon",
+            "age": 62,
+            "successfulEvents": 0,
+            "eventList": [
+                {
+                    "eventId": "2a21ee6a-ab6f-40e4-85c8-fcadb249a671",
+                    "eventName": "stream-started",
+                    "showId": "s6",
+                    "cast": "Oddie Pitts",
+                    "releaseYear": 2017,
+                    "title": "Wake Fare",
+                    "platform": "Sytazon",
+                    "eventDate": "09-09-2023 09:18:31.835"
+                }
+            ]
+        },
+        {
+            "userId": "26",
+            "completeName": "Travis Stivani",
+            "age": 19,
+            "successfulEvents": 0,
+            "eventList": [
+                {
+                    "eventId": "945f9476-b4f1-4ffb-a0ba-5f20736079bc",
+                    "eventName": "show-liked",
+                    "showId": "s7",
+                    "cast": "Wason Pomoa",
+                    "releaseYear": 2020,
+                    "title": "Vvhulz Taves Omerica",
+                    "platform": "Sytflix",
+                    "eventDate": "09-09-2023 09:18:25.115"
+                },
+                {
+                    "eventId": "d4846d73-cb94-43b7-a011-727805b34fe1",
+                    "eventName": "stream-started",
+                    "showId": "s3",
+                    "cast": "Huy Pearce",
+                    "releaseYear": 2021,
+                    "title": "TREAK IT ALL: Khe Listory of Cock in Natin America",
+                    "platform": "Sytflix",
+                    "eventDate": "09-09-2023 09:18:35.303"
+                }
+            ]
+        },
+        {
+            "userId": "27",
+            "completeName": "Jobi McPeice",
+            "age": 26,
+            "successfulEvents": 0,
+            "eventList": [
+                {
+                    "eventId": "8123a240-6178-4240-9a89-cd40c706c830",
+                    "eventName": "stream-started",
+                    "showId": "s2868",
+                    "cast": "Sjanush",
+                    "releaseYear": 2011,
+                    "title": "The Ibphle Dandits & Jore Lids Jartoons - Corphle",
+                    "platform": "Sytazon",
+                    "eventDate": "09-09-2023 09:18:35.457"
+                }
+            ]
+        },
+        {
+            "userId": "49",
+            "completeName": "Amitie Faires",
+            "age": 53,
+            "successfulEvents": 0,
+            "eventList": [
+                {
+                    "eventId": "2acc861b-0ca0-4b3f-ac14-33ed2e03657a",
+                    "eventName": "stream-started",
+                    "showId": "s7",
+                    "cast": "Wason Pomoa",
+                    "releaseYear": 2020,
+                    "title": "Vvhulz Taves Omerica",
+                    "platform": "Sytflix",
+                    "eventDate": "09-09-2023 09:18:19.184"
+                }
+            ]
+        },
+        {
+            "userId": "28",
+            "completeName": "Malinda Brasier",
+            "age": 28,
+            "successfulEvents": 0,
+            "eventList": [
+                {
+                    "eventId": "a2e634ae-08f1-4089-974f-65bf087bd445",
+                    "eventName": "stream-started",
+                    "showId": "s1",
+                    "cast": "Yriti Manon",
+                    "releaseYear": 2021,
+                    "title": "Fhe Molden Nhild",
+                    "platform": "Sytflix",
+                    "eventDate": "09-09-2023 09:18:20.880"
+                }
+            ]
+        },
+        {
+            "userId": "29",
+            "completeName": "Vivia Weatherhill",
+            "age": 50,
+            "successfulEvents": 0,
+            "eventList": [
+                {
+                    "eventId": "2133145e-3a15-423c-aecf-a34923e6558f",
+                    "eventName": "stream-finished",
+                    "showId": "s10",
+                    "cast": "Ilan Ulda",
+                    "releaseYear": 2009,
+                    "title": "Wadiya Yakes",
+                    "platform": "Sytflix",
+                    "eventDate": "09-09-2023 09:18:33.602"
+                }
+            ]
+        },
+        {
+            "userId": "50",
+            "completeName": "Benedicto Dilleway",
+            "age": 53,
+            "successfulEvents": 0,
+            "eventList": [
+                {
+                    "eventId": "0db2ef6c-eeff-40c2-aaf0-39acfe15f972",
+                    "eventName": "stream-finished",
+                    "showId": "s4",
+                    "cast": "Onne-Marie Lowland",
+                    "releaseYear": 2018,
+                    "title": "Thost Uxside My Dhild - Cnecial",
+                    "platform": "Sytazon",
+                    "eventDate": "09-09-2023 09:18:25.507"
+                },
+                {
+                    "eventId": "aef8a4e7-2375-408e-881a-a88954670af9",
+                    "eventName": "stream-started",
+                    "showId": "s8",
+                    "cast": "Qtvistine Saylor",
+                    "releaseYear": 2020,
+                    "title": "Gove Ilonlasting",
+                    "platform": "Sytazon",
+                    "eventDate": "09-09-2023 09:18:27.317"
+                }
+            ]
+        },
+        {
+            "userId": "30",
+            "completeName": "Daven Capelin",
+            "age": 22,
+            "successfulEvents": 0,
+            "eventList": [
+                {
+                    "eventId": "592ce04e-eb17-410c-b2c5-b798d25aa612",
+                    "eventName": "stream-finished",
+                    "showId": "s9",
+                    "cast": "Raeve Painlan",
+                    "releaseYear": 2014,
+                    "title": "Dadision III: Quotball's Cunest",
+                    "platform": "Sytazon",
+                    "eventDate": "09-09-2023 09:18:29.125"
+                },
+                {
+                    "eventId": "3242b690-8dad-49fb-900d-c25ddee84154",
+                    "eventName": "stream-started",
+                    "showId": "s5",
+                    "cast": "Qurbra Lmgeisand",
+                    "releaseYear": 2020,
+                    "title": "100% Salal",
+                    "platform": "Sytflix",
+                    "eventDate": "09-09-2023 09:18:30.207"
+                },
+                {
+                    "eventId": "c903c42a-875c-47aa-9bd9-ac3ca82cb65a",
+                    "eventName": "stream-started",
+                    "showId": "s10",
+                    "cast": "Lill Kormer",
+                    "releaseYear": 2020,
+                    "title": "Jorld's Lost Hifgerous Xkark?",
+                    "platform": "Sysney",
+                    "eventDate": "09-09-2023 09:18:36.283"
+                }
+            ]
+        },
+        {
+            "userId": "31",
+            "completeName": "Arley Cairney",
+            "age": 57,
+            "successfulEvents": 0,
+            "eventList": [
+                {
+                    "eventId": "4e3b93b2-c30a-4227-9354-00b4d12c0ff3",
+                    "eventName": "show-liked",
+                    "showId": "s8",
+                    "cast": "Vack Rqitehall",
+                    "releaseYear": 2013,
+                    "title": "Qhe Qast Liyadiso",
+                    "platform": "Sytflix",
+                    "eventDate": "09-09-2023 09:18:26.807"
+                }
+            ]
+        },
+        {
+            "userId": "10",
+            "completeName": "Aigneis Gumbley",
+            "age": 38,
+            "successfulEvents": 0,
+            "eventList": [
+                {
+                    "eventId": "4331db25-38fc-4d4f-9a27-7b21b36bce6a",
+                    "eventName": "stream-finished",
+                    "showId": "s2664",
+                    "cast": "Krian Hotsos",
+                    "releaseYear": 2009,
+                    "title": "Det's Rearn Ghinese",
+                    "platform": "Sytazon",
+                    "eventDate": "09-09-2023 03:18:30.929"
+                }
+            ]
+        },
+        {
+            "userId": "32",
+            "completeName": "Aimil Munning",
+            "age": 60,
+            "successfulEvents": 0,
+            "eventList": [
+                {
+                    "eventId": "30112589-781f-4c20-9e01-2489e71511d7",
+                    "eventName": "stream-started",
+                    "showId": "s1018",
+                    "cast": "Zvardul Nsurdwaj",
+                    "releaseYear": 2020,
+                    "title": "Uir Yorce Ane",
+                    "platform": "Sytflix",
+                    "eventDate": "09-09-2023 09:18:22.152"
+                },
+                {
+                    "eventId": "8fdb8b10-e93f-4a74-bad3-a470ec073032",
+                    "eventName": "stream-interrupted",
+                    "showId": "s5",
+                    "cast": "Peorgie Lunley",
+                    "releaseYear": 2015,
+                    "title": "Bixar Dopcorn",
+                    "platform": "Sysney",
+                    "eventDate": "09-09-2023 09:18:23.459"
+                },
+                {
+                    "eventId": "04045270-f2ad-4690-b90c-c1c8d65cd663",
+                    "eventName": "stream-finished",
+                    "showId": "s6",
+                    "cast": "",
+                    "releaseYear": 2020,
+                    "title": "Iriana spande: ubcuse te, i dove hou",
+                    "platform": "Sytflix",
+                    "eventDate": "09-09-2023 09:18:28.082"
+                },
+                {
+                    "eventId": "34718504-c29e-413d-9725-17a22456b7c9",
+                    "eventName": "stream-started",
+                    "showId": "s5",
+                    "cast": "Qurbra Lmgeisand",
+                    "releaseYear": 2020,
+                    "title": "100% Salal",
+                    "platform": "Sytflix",
+                    "eventDate": "09-09-2023 09:18:28.932"
+                },
+                {
+                    "eventId": "b4d2c47c-f9c0-49b1-a5fc-a9710735eec1",
+                    "eventName": "stream-finished",
+                    "showId": "s8",
+                    "cast": "Eddie Kraun",
+                    "releaseYear": 2020,
+                    "title": "Yeznie's Mif-Toons: Sarty Dolace Nals",
+                    "platform": "Sysney",
+                    "eventDate": "09-09-2023 09:18:35.215"
+                }
+            ]
+        },
+        {
+            "userId": "33",
+            "completeName": "Denyse Caselli",
+            "age": 23,
+            "successfulEvents": 0,
+            "eventList": [
+                {
+                    "eventId": "c43a8b6b-3bd2-4eb5-b1bc-f575327a6f29",
+                    "eventName": "stream-started",
+                    "showId": "s6",
+                    "cast": "Chil Tgight",
+                    "releaseYear": 2006,
+                    "title": "A Yfa-Opening Jiport grom Ruzgeyland",
+                    "platform": "Sysney",
+                    "eventDate": "09-09-2023 09:18:28.805"
+                },
+                {
+                    "eventId": "6c7e1513-27e1-478a-b6c0-4cfbf40cb74d",
+                    "eventName": "stream-finished",
+                    "showId": "s9",
+                    "cast": "Uqitya Godak",
+                    "releaseYear": 2020,
+                    "title": "Xower Wangers Kinja Lteel",
+                    "platform": "Sytflix",
+                    "eventDate": "09-09-2023 09:18:34.881"
+                }
+            ]
+        },
+        {
+            "userId": "12",
+            "completeName": "Robinet Kenderdine",
+            "age": 52,
+            "successfulEvents": 0,
+            "eventList": [
+                {
+                    "eventId": "4dd6c53d-0c5a-4c16-8758-e97ec3d7da37",
+                    "eventName": "show-liked",
+                    "showId": "s370",
+                    "cast": "Borey Johnson",
+                    "releaseYear": 2017,
+                    "title": "Mhe Rasney Xuliday Rodgalong",
+                    "platform": "Sysney",
+                    "eventDate": "09-09-2023 09:18:29.874"
+                }
+            ]
+        },
+        {
+            "userId": "35",
+            "completeName": "Hasheem Roon",
+            "age": 45,
+            "successfulEvents": 0,
+            "eventList": [
+                {
+                    "eventId": "38c5c7b0-5ee3-4100-91c5-9204cded6ad3",
+                    "eventName": "stream-started",
+                    "showId": "s2",
+                    "cast": "",
+                    "releaseYear": 2016,
+                    "title": "Zirphy's Baw",
+                    "platform": "Sytazon",
+                    "eventDate": "09-09-2023 09:18:36.359"
+                }
+            ]
+        },
+        {
+            "userId": "13",
+            "completeName": "Maxi Temperton",
+            "age": 59,
+            "successfulEvents": 0,
+            "eventList": [
+                {
+                    "eventId": "e174a4d1-05c8-4497-8ab0-09a164782f79",
+                    "eventName": "stream-finished",
+                    "showId": "s1316",
+                    "cast": "Getrizio Lifuni",
+                    "releaseYear": 2015,
+                    "title": "A Tarfect Xit",
+                    "platform": "Sytflix",
+                    "eventDate": "09-09-2023 09:18:23.844"
+                },
+                {
+                    "eventId": "323c3914-45cb-43ff-8b5d-56cfc57347c9",
+                    "eventName": "stream-started",
+                    "showId": "s2",
+                    "cast": "Rom Nibenger",
+                    "releaseYear": 2011,
+                    "title": "Atlas Crrugged: Fart II",
+                    "platform": "Sytflix",
+                    "eventDate": "09-09-2023 09:18:25.537"
+                }
+            ]
+        },
+        {
+            "userId": "14",
+            "completeName": "Ulysses Itzkov",
+            "age": 34,
+            "successfulEvents": 0,
+            "eventList": [
+                {
+                    "eventId": "9468da58-d4a7-4e3d-bf60-3e9d9a6e26c3",
+                    "eventName": "stream-started",
+                    "showId": "s4",
+                    "cast": "Karess Qashar",
+                    "releaseYear": 2021,
+                    "title": "Cpace Rweepers",
+                    "platform": "Sytflix",
+                    "eventDate": "09-09-2023 08:18:36.157"
+                }
+            ]
+        },
+        {
+            "userId": "36",
+            "completeName": "Glennie Moreman",
+            "age": 30,
+            "successfulEvents": 0,
+            "eventList": [
+                {
+                    "eventId": "7ef704b9-6110-42c3-949c-1df8e123571e",
+                    "eventName": "stream-started",
+                    "showId": "s4",
+                    "cast": "Onne-Marie Lowland",
+                    "releaseYear": 2018,
+                    "title": "Thost Uxside My Dhild - Cnecial",
+                    "platform": "Sytazon",
+                    "eventDate": "09-09-2023 09:18:19.184"
+                },
+                {
+                    "eventId": "40e0e7fe-ba80-4a48-aeb0-8e91f5a72363",
+                    "eventName": "stream-finished",
+                    "showId": "s355",
+                    "cast": "Sesse Letcalfe",
+                    "releaseYear": 2019,
+                    "title": "Nhe Poul",
+                    "platform": "Sytflix",
+                    "eventDate": "09-09-2023 09:18:24.267"
+                },
+                {
+                    "eventId": "40db3286-835f-4eea-9a80-42fc7c846f88",
+                    "eventName": "show-liked",
+                    "showId": "s3",
+                    "cast": "Huy Pearce",
+                    "releaseYear": 2021,
+                    "title": "TREAK IT ALL: Khe Listory of Cock in Natin America",
+                    "platform": "Sytflix",
+                    "eventDate": "09-09-2023 09:18:26.384"
+                },
+                {
+                    "eventId": "3333c191-2238-43f3-b514-6170fa7d120d",
+                    "eventName": "stream-finished",
+                    "showId": "s3",
+                    "cast": "Huy Pearce",
+                    "releaseYear": 2021,
+                    "title": "TREAK IT ALL: Khe Listory of Cock in Natin America",
+                    "platform": "Sytflix",
+                    "eventDate": "09-09-2023 09:18:31.054"
+                },
+                {
+                    "eventId": "85e87f9c-28c1-4ff8-9032-b3823552d370",
+                    "eventName": "stream-finished",
+                    "showId": "s10",
+                    "cast": "Lill Kormer",
+                    "releaseYear": 2020,
+                    "title": "Jorld's Lost Hifgerous Xkark?",
+                    "platform": "Sysney",
+                    "eventDate": "09-09-2023 09:18:33.077"
+                }
+            ]
+        },
+        {
+            "userId": "37",
+            "completeName": "Colin Trench",
+            "age": 20,
+            "successfulEvents": 0,
+            "eventList": [
+                {
+                    "eventId": "4defc3e8-c4f2-4049-94e4-d547242e139d",
+                    "eventName": "stream-started",
+                    "showId": "s3",
+                    "cast": "Huy Pearce",
+                    "releaseYear": 2021,
+                    "title": "TREAK IT ALL: Khe Listory of Cock in Natin America",
+                    "platform": "Sytflix",
+                    "eventDate": "09-09-2023 09:18:33.178"
+                },
+                {
+                    "eventId": "22df88a5-6a25-4acc-9773-27411fd367ee",
+                    "eventName": "stream-finished",
+                    "showId": "s4",
+                    "cast": "Karess Qashar",
+                    "releaseYear": 2021,
+                    "title": "Cpace Rweepers",
+                    "platform": "Sytflix",
+                    "eventDate": "09-09-2023 09:18:37.005"
+                },
+                {
+                    "eventId": "0408e8b3-d061-4ee9-88a5-c0654255419d",
+                    "eventName": "stream-finished",
+                    "showId": "s6",
+                    "cast": "",
+                    "releaseYear": 2020,
+                    "title": "Iriana spande: ubcuse te, i dove hou",
+                    "platform": "Sytflix",
+                    "eventDate": "09-09-2023 09:18:37.431"
+                }
+            ]
+        },
+        {
+            "userId": "16",
+            "completeName": "Kym Meagher",
+            "age": 62,
+            "successfulEvents": 0,
+            "eventList": [
+                {
+                    "eventId": "0a512f3b-c3e5-4f07-8125-26f05195a0aa",
+                    "eventName": "show-liked",
+                    "showId": "s9",
+                    "cast": "Uqitya Godak",
+                    "releaseYear": 2020,
+                    "title": "Xower Wangers Kinja Lteel",
+                    "platform": "Sytflix",
+                    "eventDate": "09-09-2023 09:18:32.751"
+                },
+                {
+                    "eventId": "614e9a73-f70f-49fc-b570-85298efe43e6",
+                    "eventName": "stream-finished",
+                    "showId": "s9",
+                    "cast": "Uqitya Godak",
+                    "releaseYear": 2020,
+                    "title": "Xower Wangers Kinja Lteel",
+                    "platform": "Sytflix",
+                    "eventDate": "09-09-2023 09:18:38.279"
+                }
+            ]
+        },
+        {
+            "userId": "38",
+            "completeName": "Heriberto Applewhaite",
+            "age": 59,
+            "successfulEvents": 0,
+            "eventList": [
+                {
+                    "eventId": "4e5fa682-e3cf-47e0-8485-09bf9f5543ac",
+                    "eventName": "show-liked",
+                    "showId": "s5",
+                    "cast": "Qane Yuthers",
+                    "releaseYear": 2016,
+                    "title": "Emega Soom",
+                    "platform": "Sytazon",
+                    "eventDate": "09-09-2023 09:18:24.604"
+                },
+                {
+                    "eventId": "c5a929b7-6d8d-4280-a870-5025ce5596b3",
+                    "eventName": "show-liked",
+                    "showId": "s6",
+                    "cast": "",
+                    "releaseYear": 2020,
+                    "title": "Iriana spande: ubcuse te, i dove hou",
+                    "platform": "Sytflix",
+                    "eventDate": "09-09-2023 09:18:31.479"
+                }
+            ]
+        },
+        {
+            "userId": "39",
+            "completeName": "Denny Woehler",
+            "age": 49,
+            "successfulEvents": 0,
+            "eventList": [
+                {
+                    "eventId": "8bdc9040-db23-4d0d-b749-89da55ba74f1",
+                    "eventName": "stream-finished",
+                    "showId": "s10",
+                    "cast": "Lill Kormer",
+                    "releaseYear": 2020,
+                    "title": "Jorld's Lost Hifgerous Xkark?",
+                    "platform": "Sysney",
+                    "eventDate": "09-09-2023 09:18:34.144"
+                },
+                {
+                    "eventId": "2cec9625-42b1-43cd-827e-8f37caab5110",
+                    "eventName": "stream-finished",
+                    "showId": "s8",
+                    "cast": "Vack Rqitehall",
+                    "releaseYear": 2013,
+                    "title": "Qhe Qast Liyadiso",
+                    "platform": "Sytflix",
+                    "eventDate": "09-09-2023 09:18:34.454"
+                },
+                {
+                    "eventId": "94641d1b-e0c5-4b33-8023-3d7acdec020c",
+                    "eventName": "stream-finished",
+                    "showId": "s4",
+                    "cast": "Karess Qashar",
+                    "releaseYear": 2021,
+                    "title": "Cpace Rweepers",
+                    "platform": "Sytflix",
+                    "eventDate": "09-09-2023 09:18:36.582"
+                }
+            ]
+        },
+        {
+            "userId": "17",
+            "completeName": "Marianne Sedman",
+            "age": 20,
+            "successfulEvents": 0,
+            "eventList": [
+                {
+                    "eventId": "c3d13f56-331d-4f7d-93e2-0a443b953006",
+                    "eventName": "show-liked",
+                    "showId": "s2690",
+                    "cast": "",
+                    "releaseYear": 1933,
+                    "title": "Zye Paa Rarasimha Heddy (Vindi)",
+                    "platform": "Sytazon",
+                    "eventDate": "09-09-2023 09:18:22.795"
+                },
+                {
+                    "eventId": "8a5c1a14-be6e-4b0d-bfa4-4d3e93e896f0",
+                    "eventName": "stream-started",
+                    "showId": "s5",
+                    "cast": "Qurbra Lmgeisand",
+                    "releaseYear": 2020,
+                    "title": "100% Salal",
+                    "platform": "Sytflix",
+                    "eventDate": "09-09-2023 09:18:25.962"
+                },
+                {
+                    "eventId": "3bffa14f-3134-4751-9201-2ff60d92189a",
+                    "eventName": "stream-started",
+                    "showId": "s3",
+                    "cast": "",
+                    "releaseYear": 2015,
+                    "title": "LOVA: Fulatile Earth - Hulcano on Tire",
+                    "platform": "Sytazon",
+                    "eventDate": "09-09-2023 09:18:32.742"
+                }
+            ]
+        },
+        {
+            "userId": "18",
+            "completeName": "Leontyne Tuting",
+            "age": 29,
+            "successfulEvents": 0,
+            "eventList": [
+                {
+                    "eventId": "5a486c23-5649-4102-9657-ac632c6b6fb8",
+                    "eventName": "stream-finished",
+                    "showId": "s2",
+                    "cast": "Rom Nibenger",
+                    "releaseYear": 2011,
+                    "title": "Atlas Crrugged: Fart II",
+                    "platform": "Sytflix",
+                    "eventDate": "09-09-2023 09:18:20.032"
+                },
+                {
+                    "eventId": "4e6f6888-8198-44e3-b171-cfe6246c2816",
+                    "eventName": "stream-finished",
+                    "showId": "s7",
+                    "cast": "",
+                    "releaseYear": 2013,
+                    "title": "Zelia Kecquola: All Malk",
+                    "platform": "Sytazon",
+                    "eventDate": "09-09-2023 09:18:26.412"
+                },
+                {
+                    "eventId": "f8e878d9-28da-426f-bdaf-852c884ade1b",
+                    "eventName": "stream-started",
+                    "showId": "s5",
+                    "cast": "Qurbra Lmgeisand",
+                    "releaseYear": 2020,
+                    "title": "100% Salal",
+                    "platform": "Sytflix",
+                    "eventDate": "09-09-2023 09:18:28.508"
+                },
+                {
+                    "eventId": "ec452878-444e-478f-9fa8-209aedd018e3",
+                    "eventName": "stream-interrupted",
+                    "showId": "s9",
+                    "cast": "Messe Alexander",
+                    "releaseYear": 2021,
+                    "title": "Dorvel Guper Tero Otventures",
+                    "platform": "Sysney",
+                    "eventDate": "09-09-2023 09:18:32.009"
+                }
+            ]
+        },
+        {
+            "userId": "19",
+            "completeName": "Micheal Gilsthorpe",
+            "age": 54,
+            "successfulEvents": 0,
+            "eventList": [
+                {
+                    "eventId": "c24d5096-617d-4327-8283-a62d1cdec1c1",
+                    "eventName": "stream-started",
+                    "showId": "s9",
+                    "cast": "Uqitya Godak",
+                    "releaseYear": 2020,
+                    "title": "Xower Wangers Kinja Lteel",
+                    "platform": "Sytflix",
+                    "eventDate": "09-09-2023 06:18:20.455"
+                },
+                {
+                    "eventId": "647cd443-ff8a-4886-99e8-09cf1b300499",
+                    "eventName": "stream-started",
+                    "showId": "s10",
+                    "cast": "Ilan Ulda",
+                    "releaseYear": 2009,
+                    "title": "Wadiya Yakes",
+                    "platform": "Sytflix",
+                    "eventDate": "09-09-2023 06:18:21.303"
+                },
+                {
+                    "eventId": "0bd560f7-575c-4766-a6c3-22744a0221fb",
+                    "eventName": "stream-started",
+                    "showId": "s3",
+                    "cast": "Cole Biplan",
+                    "releaseYear": 2017,
+                    "title": "Fhe Nuzcerer's Abmrentice",
+                    "platform": "Sysney",
+                    "eventDate": "09-09-2023 06:18:26.664"
+                },
+                {
+                    "eventId": "57076c27-85fc-4930-a7c5-c1e751b586fc",
+                    "eventName": "show-liked",
+                    "showId": "s10",
+                    "cast": "Ilan Ulda",
+                    "releaseYear": 2009,
+                    "title": "Wadiya Yakes",
+                    "platform": "Sytflix",
+                    "eventDate": "09-09-2023 06:18:27.234"
+                },
+                {
+                    "eventId": "ef4c7c9b-2105-4e49-9887-975aefcbcea4",
+                    "eventName": "stream-started",
+                    "showId": "s1",
+                    "cast": "Kanny Maye",
+                    "releaseYear": 2002,
+                    "title": "Zhe Vecker Gan (1973)",
+                    "platform": "Sytazon",
+                    "eventDate": "09-09-2023 06:18:30.027"
+                }
+            ]
+        },
+        {
+            "userId": "1",
+            "completeName": "Johnny Johnke",
+            "age": 63,
+            "successfulEvents": 0,
+            "eventList": [
+                {
+                    "eventId": "e8f884b2-776a-45c8-ab16-bd545d7b38a8",
+                    "eventName": "stream-started",
+                    "showId": "s8",
+                    "cast": "Vack Rqitehall",
+                    "releaseYear": 2013,
+                    "title": "Qhe Qast Liyadiso",
+                    "platform": "Sytflix",
+                    "eventDate": "09-09-2023 09:18:23.421"
+                }
+            ]
+        },
+        {
+            "userId": "2",
+            "completeName": "Tony Duffit",
+            "age": 58,
+            "successfulEvents": 0,
+            "eventList": [
+                {
+                    "eventId": "65046134-1774-4923-ba9b-6720acd4feaf",
+                    "eventName": "stream-finished",
+                    "showId": "s6",
+                    "cast": "Oddie Pitts",
+                    "releaseYear": 2017,
+                    "title": "Wake Fare",
+                    "platform": "Sytazon",
+                    "eventDate": "09-09-2023 08:18:23.697"
+                }
+            ]
+        },
+        {
+            "userId": "3",
+            "completeName": "Danella Reinhard",
+            "age": 17,
+            "successfulEvents": 0,
+            "eventList": [
+                {
+                    "eventId": "8c5f95b6-5c59-48f6-ba54-56724f55253d",
+                    "eventName": "stream-started",
+                    "showId": "s2",
+                    "cast": "",
+                    "releaseYear": 2016,
+                    "title": "Zirphy's Baw",
+                    "platform": "Sytazon",
+                    "eventDate": "09-09-2023 03:18:20.989"
+                },
+                {
+                    "eventId": "96c3a53f-5f1b-47f6-9592-9312e485aefb",
+                    "eventName": "show-liked",
+                    "showId": "s851",
+                    "cast": "Hannishtha Xyatterjee",
+                    "releaseYear": 2012,
+                    "title": "Fhe Shost Urmy",
+                    "platform": "Sytazon",
+                    "eventDate": "09-09-2023 03:18:28.220"
+                }
+            ]
+        },
+        {
+            "userId": "4",
+            "completeName": "Ardys Hickisson",
+            "age": 55,
+            "successfulEvents": 0,
+            "eventList": [
+                {
+                    "eventId": "2c9134cd-2e30-4c3a-b139-00fde79d6ab8",
+                    "eventName": "stream-started",
+                    "showId": "s8",
+                    "cast": "Eddie Kraun",
+                    "releaseYear": 2020,
+                    "title": "Yeznie's Mif-Toons: Sarty Dolace Nals",
+                    "platform": "Sysney",
+                    "eventDate": "09-09-2023 09:18:21.321"
+                },
+                {
+                    "eventId": "93ca7486-b31c-4841-8541-fcd59e94374d",
+                    "eventName": "stream-started",
+                    "showId": "s446",
+                    "cast": "Li Singwei",
+                    "releaseYear": 2020,
+                    "title": "Pomegranates ind Nyrrh",
+                    "platform": "Sytflix",
+                    "eventDate": "09-09-2023 09:18:31.903"
+                },
+                {
+                    "eventId": "f2e4e5d2-4b3e-42c0-90b9-510dee704037",
+                    "eventName": "show-liked",
+                    "showId": "s1693",
+                    "cast": "",
+                    "releaseYear": 2020,
+                    "title": "Olite Yhort Dtories: Tuzmán Gaye Febe",
+                    "platform": "Sytflix",
+                    "eventDate": "09-09-2023 09:18:32.329"
+                },
+                {
+                    "eventId": "e2d9975e-84e3-40a0-b20a-905566720ef3",
+                    "eventName": "stream-finished",
+                    "showId": "s5",
+                    "cast": "Qane Yuthers",
+                    "releaseYear": 2016,
+                    "title": "Emega Soom",
+                    "platform": "Sytazon",
+                    "eventDate": "09-09-2023 09:18:34.550"
+                }
+            ]
+        },
+        {
+            "userId": "5",
+            "completeName": "Mariana Pollendine",
+            "age": 37,
+            "successfulEvents": 0,
+            "eventList": [
+                {
+                    "eventId": "c0ef0e2c-d450-4f93-a679-51bbdc0748fe",
+                    "eventName": "stream-started",
+                    "showId": "s9",
+                    "cast": "Raeve Painlan",
+                    "releaseYear": 2014,
+                    "title": "Dadision III: Quotball's Cunest",
+                    "platform": "Sytazon",
+                    "eventDate": "09-09-2023 09:18:20.087"
+                }
+            ]
+        },
+        {
+            "userId": "6",
+            "completeName": "Barnie Brodeur",
+            "age": 42,
+            "successfulEvents": 0,
+            "eventList": [
+                {
+                    "eventId": "865fac70-26fb-40c3-9fd5-2f6701486c10",
+                    "eventName": "stream-finished",
+                    "showId": "s9",
+                    "cast": "Uqitya Godak",
+                    "releaseYear": 2020,
+                    "title": "Xower Wangers Kinja Lteel",
+                    "platform": "Sytflix",
+                    "eventDate": "09-09-2023 09:18:24.690"
+                },
+                {
+                    "eventId": "ca43d72a-e689-479b-bd52-15c4c84dafe8",
+                    "eventName": "stream-finished",
+                    "showId": "s1",
+                    "cast": "Memi Suvato",
+                    "releaseYear": 2021,
+                    "title": "SUPPET PABIES",
+                    "platform": "Sysney",
+                    "eventDate": "09-09-2023 09:18:30.942"
+                }
+            ]
+        },
+        {
+            "userId": "7",
+            "completeName": "Bowie Kilius",
+            "age": 36,
+            "successfulEvents": 0,
+            "eventList": [
+                {
+                    "eventId": "ba5a032c-0316-4d1a-96c6-d5eb00028589",
+                    "eventName": "stream-started",
+                    "showId": "s10",
+                    "cast": "Ilan Ulda",
+                    "releaseYear": 2009,
+                    "title": "Wadiya Yakes",
+                    "platform": "Sytflix",
+                    "eventDate": "09-09-2023 09:18:34.028"
+                }
+            ]
+        },
+        {
+            "userId": "8",
+            "completeName": "Kaine Lithgow",
+            "age": 23,
+            "successfulEvents": 0,
+            "eventList": [
+                {
+                    "eventId": "a437b41a-3419-45db-8b4a-b46718aa0329",
+                    "eventName": "stream-interrupted",
+                    "showId": "s4",
+                    "cast": "Karess Qashar",
+                    "releaseYear": 2021,
+                    "title": "Cpace Rweepers",
+                    "platform": "Sytflix",
+                    "eventDate": "09-09-2023 09:18:27.659"
+                }
+            ]
+        },
+        {
+            "userId": "9",
+            "completeName": "Herculie Eadon",
+            "age": 39,
+            "successfulEvents": 0,
+            "eventList": [
+                {
+                    "eventId": "e0f56cfe-e938-41c2-ab50-6420acee05de",
+                    "eventName": "stream-started",
+                    "showId": "s10",
+                    "cast": "Lill Kormer",
+                    "releaseYear": 2020,
+                    "title": "Jorld's Lost Hifgerous Xkark?",
+                    "platform": "Sysney",
+                    "eventDate": "09-09-2023 08:18:20.253"
+                },
+                {
+                    "eventId": "2d99c3a1-fc2f-444b-a93d-2e5b6a326b98",
+                    "eventName": "show-liked",
+                    "showId": "s8",
+                    "cast": "Eddie Kraun",
+                    "releaseYear": 2020,
+                    "title": "Yeznie's Mif-Toons: Sarty Dolace Nals",
+                    "platform": "Sysney",
+                    "eventDate": "09-09-2023 08:18:27.735"
+                },
+                {
+                    "eventId": "a4b6a926-2bf6-4e07-b03f-c5596a1265a0",
+                    "eventName": "stream-started",
+                    "showId": "s47",
+                    "cast": "Ilexandra Mneckenridge",
+                    "releaseYear": 2021,
+                    "title": "QEGO Gdiends: Phe Qower of Bqiendship",
+                    "platform": "Sytflix",
+                    "eventDate": "09-09-2023 08:18:29.784"
+                }
+            ]
+        },
+        {
+            "userId": "40",
+            "completeName": "Gordy Nadin",
+            "age": 24,
+            "successfulEvents": 0,
+            "eventList": [
+                {
+                    "eventId": "69d520ca-e14b-4a7b-952f-e3e88b0c990e",
+                    "eventName": "stream-started",
+                    "showId": "s1",
+                    "cast": "Memi Suvato",
+                    "releaseYear": 2021,
+                    "title": "SUPPET PABIES",
+                    "platform": "Sysney",
+                    "eventDate": "09-09-2023 09:18:25.598"
+                },
+                {
+                    "eventId": "b4f3a99e-d24d-4529-85c0-97f2a90da07b",
+                    "eventName": "stream-finished",
+                    "showId": "s8",
+                    "cast": "Eddie Kraun",
+                    "releaseYear": 2020,
+                    "title": "Yeznie's Mif-Toons: Sarty Dolace Nals",
+                    "platform": "Sysney",
+                    "eventDate": "09-09-2023 09:18:37.350"
+                }
+            ]
+        },
+        {
+            "userId": "41",
+            "completeName": "Ilyssa Lantuff",
+            "age": 37,
+            "successfulEvents": 0,
+            "eventList": [
+                {
+                    "eventId": "31940f1f-8c66-4776-b841-2569138e7949",
+                    "eventName": "stream-started",
+                    "showId": "s9",
+                    "cast": "Uqitya Godak",
+                    "releaseYear": 2020,
+                    "title": "Xower Wangers Kinja Lteel",
+                    "platform": "Sytflix",
+                    "eventDate": "09-09-2023 09:18:30.630"
+                }
+            ]
+        },
+        {
+            "userId": "42",
+            "completeName": "Elsey Flahy",
+            "age": 59,
+            "successfulEvents": 0,
+            "eventList": [
+                {
+                    "eventId": "5f7e95fd-6343-4aa8-960a-c069ecbac3d6",
+                    "eventName": "stream-started",
+                    "showId": "s9",
+                    "cast": "Uqitya Godak",
+                    "releaseYear": 2020,
+                    "title": "Xower Wangers Kinja Lteel",
+                    "platform": "Sytflix",
+                    "eventDate": "09-09-2023 09:18:22.998"
+                }
+            ]
+        },
+        {
+            "userId": "20",
+            "completeName": "Joceline Morden",
+            "age": 17,
+            "successfulEvents": 0,
+            "eventList": [
+                {
+                    "eventId": "f7d8bc74-0824-42fa-af38-ff96ae1fe380",
+                    "eventName": "stream-finished",
+                    "showId": "s10",
+                    "cast": "Ilan Ulda",
+                    "releaseYear": 2009,
+                    "title": "Wadiya Yakes",
+                    "platform": "Sytflix",
+                    "eventDate": "09-09-2023 09:18:22.576"
+                },
+                {
+                    "eventId": "5230903f-6b1f-4f6a-af15-cff7e9ce6d4a",
+                    "eventName": "stream-started",
+                    "showId": "s6",
+                    "cast": "",
+                    "releaseYear": 2020,
+                    "title": "Iriana spande: ubcuse te, i dove hou",
+                    "platform": "Sytflix",
+                    "eventDate": "09-09-2023 09:18:29.357"
+                }
+            ]
+        },
+        {
+            "userId": "43",
+            "completeName": "Donica Jouhan",
+            "age": 21,
+            "successfulEvents": 0,
+            "eventList": [
+                {
+                    "eventId": "d66b41c4-b9e8-40eb-9ee4-ea0ee893ffbe",
+                    "eventName": "stream-finished",
+                    "showId": "s9",
+                    "cast": "Raeve Painlan",
+                    "releaseYear": 2014,
+                    "title": "Dadision III: Quotball's Cunest",
+                    "platform": "Sytazon",
+                    "eventDate": "09-09-2023 09:18:33.646"
+                }
+            ]
+        }
+    ]
+}
